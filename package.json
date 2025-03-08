@@ -9,13 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.2.1"
+    "@geist-ui/react": "^2.2.5",
+    "@sanity/client": "^6.28.3",
+    "canvas-confetti": "^1.9.3",
+    "next": "^15.2.1",
+    "next-sanity-image": "^6.1.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "stripe": "^17.7.0"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
-    "eslint-config-next": "15.2.1",
-    "@eslint/eslintrc": "^3"
+    "eslint-config-next": "15.2.1"
   }
 }
